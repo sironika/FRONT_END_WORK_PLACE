@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calc</title>
+</head>
+<body>
+<script>
+    var res = prompt("Введіть назву оператора: [ + ], [ - ], [ * ], [ / ]");
+    var a = prompt("Введіть перше число:");
+    var b = prompt("Введіть друге число:");
+
+    if (res === '+'){
+        alert(+a + +b +" - сума чисел");
+    } else if (res === '-'){
+        alert(+a - +b +' - різниця чисел');
+    } else if (res === '*'){
+        alert( a * b +' - добуток чисел');
+    } else if (res === '/' && b !== 0){
+        alert( a / b +' - частка');
+    } else{
+        alert("Введено невірний оператор")
+    }
+</script>
+</body>
+</html>

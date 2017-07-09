@@ -1,0 +1,231 @@
+html, body{
+    margin: 0;
+    font-family: Arial, serif;
+}
+.wrap{
+    margin: 0 auto;
+    width: 940px;
+    overflow: visible;
+}
+/*header*/
+.header{
+    width: 100%;
+    float: left;
+}
+.header .logo{
+    float: left;
+    margin: 10px 0;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(224,170,157);
+}
+.header .logo span{
+    color: rgb(225,98,65);
+}
+.header .nav{
+    float: right;
+}
+.header .nav a{
+    float: left;
+    padding: 15px 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 16px;
+    color: rgb(189,189,189);
+}
+.header .nav a:last-child{
+    padding-right: 0;
+}
+.header .nav a:hover,
+.header .nav a.active{
+    color: rgb(225,98,65);
+}
+/*slider*/
+.slider{
+    float: left;
+    width: 100%;
+    position: relative;
+    /*margin-top: -50px;*/
+}
+.slider img{
+    width: 940px;
+    height: 400px;
+}
+.slider .des{
+    position: absolute;
+    top:240px;
+    left: 70px;
+    width: 370px;
+    padding: 5px;
+    background: rgb(225,98,65);
+    opacity: 0.8;
+}
+.slider .des h2{
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+}
+.slider .des p{
+    font-size: 12px;
+    font-weight: 100;
+    color: #fff;
+}
+.slider .left{
+    left: 20px;
+    background: url("img/to_l.png");
+}
+.slider .right{
+    right: 20px;
+    background: url("img/to_r.png");
+}
+.slider .left,
+.slider .right{
+    position: absolute;
+    top: 190px;
+    width: 35px;
+    height: 50px;
+    text-indent: -9000px;
+    cursor: pointer;
+}
+.slider .left:hover,
+.slider .right:hover{
+    opacity: 0.5;
+}
+.pict{
+    float: left;
+    width: 100%;
+}
+.pict img{
+    float: left;
+    margin: 9px;
+}
+.pict img:first-child{
+    margin-left: 0;
+}
+.pict img:last-child{
+    margin-right: 0;
+}
+/*features*/
+.features{
+    float: left;
+    width: 100%;
+    display: table;
+    position: relative;
+    height: 280px;
+}
+.features .item{
+    float: left;
+    width: 290px;
+    margin: 20px 0 30px 35px;
+    display: table-cell;
+}
+.features .item:first-child{
+    margin-left: 0;
+}
+.features .item h3{
+    color: rgb(225,98,65);
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 0 20px 0 70px;
+    margin: 26px 0;
+    top: 0;
+    height: 55px;
+}
+.features .item p{
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 20px;
+}
+.features .f1 h3{
+    background: url("img/offer_1.jpg") center left no-repeat;
+}
+.features .f2 h3{
+    background: url("img/offer_2.jpg") center left no-repeat;
+}
+.features .f3 h3{
+    background: url("img/offer_3.jpg") center left no-repeat;
+}
+.features .item .more{
+    color: #fff;
+    background: rgb(225,98,65);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 10px 20px;
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+}
+.features .item .more:hover {
+    opacity: 0.6;
+}
+/*recent works*/
+.rec{
+    float: left;
+    margin: 20px 0;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(225,98,65);
+    display: inline-block;
+}
+.rec img{
+    float: right;
+    width: 754px;
+    margin-left: 20px;
+    height: 18px;
+    margin-top: 2px;
+}
+.recent{
+    float: left;
+    width: 100%;
+    position: relative;
+}
+.recent .post{
+    float: left;
+    width: 215px;
+    margin: 5px 0 5px 25px;
+    text-transform: uppercase;
+    display: inline-block;
+    color: darkgrey;
+    font-size: 16px;
+}
+.recent .post:first-child{
+    margin-left: 0;
+}
+.recent .post:last-child{
+    margin-right: 0;
+}
+.recent .post p{
+    float: left;
+    color: rgb(225,98,65);
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 0;
+}
+/*footer*/
+.last{
+    float: left;
+    width: 100%;
+    background: rgb(225,98,65);
+    color: #fff;
+}
+.last .bot {
+    float: left;
+    width: 272px;
+    margin: 10px 0 30px 35px;
+    display: inline-block;
+}
+.last .bot h5{
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+}
+.table-row{
+    display: table-row;
+}
