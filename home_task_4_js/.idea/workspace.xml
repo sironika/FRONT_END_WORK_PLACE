@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d057dd09-b022-42d2-a5f4-d3fb4163710e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask1/form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask1/list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask1/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask1/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask1/table.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/.idea/hometask2.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/bar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/offer_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/offer_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/offer_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/recent_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/recent_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/recent_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/recent_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/slide1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/slide2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/slide3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/slide4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/slide5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/slide6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/slider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/social_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/social_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/social_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/social_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/to_l.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/img/to_r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/maket.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../hometask2/style.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calc.html" afterPath="$PROJECT_DIR$/calc.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,12 +14,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="calc.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/calc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            <state relative-caret-position="147">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -62,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -71,6 +41,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/calc.js" />
         <option value="$PROJECT_DIR$/calc.html" />
       </list>
     </option>
@@ -107,6 +78,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -121,14 +94,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/test/3_functions_forms_tasks" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,12 +128,13 @@
       <option name="presentableId" value="Default" />
       <updated>1499545217805</updated>
       <workItem from="1499545219616" duration="11380000" />
-      <workItem from="1499610879973" duration="6171000" />
+      <workItem from="1499610879973" duration="7419000" />
+      <workItem from="1499803208116" duration="5931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17551000" />
+    <option name="totallyTimeSpent" value="24730000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -174,18 +147,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2567132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2604726" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32807216" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -206,7 +178,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../b/index.php">
+    <entry file="file://$PROJECT_DIR$/calc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -214,10 +186,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../b/index.php" />
+    <entry file="file://$PROJECT_DIR$/calc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/calc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        <state relative-caret-position="147">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
